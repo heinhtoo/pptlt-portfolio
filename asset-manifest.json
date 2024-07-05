@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pptlt-portfolio/static/css/main.1770a512.css",
+    "main.js": "/pptlt-portfolio/static/js/main.9ba7c9b2.js",
+    "static/js/453.0a70f971.chunk.js": "/pptlt-portfolio/static/js/453.0a70f971.chunk.js",
+    "static/media/logo.svg": "/pptlt-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/pptlt-portfolio/index.html",
+    "main.1770a512.css.map": "/pptlt-portfolio/static/css/main.1770a512.css.map",
+    "main.9ba7c9b2.js.map": "/pptlt-portfolio/static/js/main.9ba7c9b2.js.map",
+    "453.0a70f971.chunk.js.map": "/pptlt-portfolio/static/js/453.0a70f971.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1770a512.css",
+    "static/js/main.9ba7c9b2.js"
+  ]
+}
